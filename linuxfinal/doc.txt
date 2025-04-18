@@ -1,0 +1,6 @@
+Success is not just about talent or intelligence; 
+it is the result of perseverance discipline, and continuous learning.
+Those who achieve greatness often face numerous failures but never give up. 
+rno fname lname marks
+01 Abhishek Giram 92
+02 Tushar Jagdale 90

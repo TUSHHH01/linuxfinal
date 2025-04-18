@@ -1,0 +1,13 @@
+# Write a shell script to count the lines words and characters in a file. 
+
+
+echo "Enter the file name:"
+read filename
+
+if [ -f "$filename" ]; then
+    echo "File found!"
+    echo "The number of lines, words, and characters:"
+    wc "$filename"
+else
+    echo "File not found."
+fi
